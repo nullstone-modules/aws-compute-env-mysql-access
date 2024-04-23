@@ -1,0 +1,13 @@
+org_name: Evolve
+name: aws-compute-env-mysql-access
+friendly_name: MySQL Access for AWS Batch Compute Environment
+description: Block that connects to a Batch Compute Environment and a MySQL Cluster, and grants network access to the cluster
+category: block
+subcategory: ""
+provider_types:
+    - aws
+platform: batch
+subplatform: ""
+type: ""
+appCategories: []
+is_public: false
